@@ -9,7 +9,7 @@ export default function Footer() {
           Frontend Mentor
         </a>
         . Coded by{" "}
-        <a href="https://github.com/ajkun55/Job-listings-with-filtering-using-React">
+        <a href="https://github.com/ajkun55/IP-Address-Tracker-using-React">
           John A
         </a>
         .
